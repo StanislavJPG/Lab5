@@ -1,0 +1,5 @@
+C:\Users\sampe\Folder\Lab5\MyDictionary\obj\Debug\net6.0\MyDictionary.csproj.AssemblyReference.cache
+C:\Users\sampe\Folder\Lab5\MyDictionary\obj\Debug\net6.0\MyDictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sampe\Folder\Lab5\MyDictionary\obj\Debug\net6.0\MyDictionary.AssemblyInfoInputs.cache
+C:\Users\sampe\Folder\Lab5\MyDictionary\obj\Debug\net6.0\MyDictionary.AssemblyInfo.cs
+C:\Users\sampe\Folder\Lab5\MyDictionary\obj\Debug\net6.0\MyDictionary.csproj.CoreCompileInputs.cache

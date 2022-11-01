@@ -1,0 +1,15 @@
+C:\Users\sampe\Folder\Lab5\AnotherMethod\obj\Debug\net6.0\AnotherMethod.csproj.AssemblyReference.cache
+C:\Users\sampe\Folder\Lab5\AnotherMethod\obj\Debug\net6.0\AnotherMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sampe\Folder\Lab5\AnotherMethod\obj\Debug\net6.0\AnotherMethod.AssemblyInfoInputs.cache
+C:\Users\sampe\Folder\Lab5\AnotherMethod\obj\Debug\net6.0\AnotherMethod.AssemblyInfo.cs
+C:\Users\sampe\Folder\Lab5\AnotherMethod\obj\Debug\net6.0\AnotherMethod.csproj.CoreCompileInputs.cache
+C:\Users\sampe\Folder\Lab5\AnotherMethod\bin\Debug\net6.0\AnotherMethod.exe
+C:\Users\sampe\Folder\Lab5\AnotherMethod\bin\Debug\net6.0\AnotherMethod.deps.json
+C:\Users\sampe\Folder\Lab5\AnotherMethod\bin\Debug\net6.0\AnotherMethod.runtimeconfig.json
+C:\Users\sampe\Folder\Lab5\AnotherMethod\bin\Debug\net6.0\AnotherMethod.dll
+C:\Users\sampe\Folder\Lab5\AnotherMethod\bin\Debug\net6.0\AnotherMethod.pdb
+C:\Users\sampe\Folder\Lab5\AnotherMethod\obj\Debug\net6.0\AnotherMethod.dll
+C:\Users\sampe\Folder\Lab5\AnotherMethod\obj\Debug\net6.0\refint\AnotherMethod.dll
+C:\Users\sampe\Folder\Lab5\AnotherMethod\obj\Debug\net6.0\AnotherMethod.pdb
+C:\Users\sampe\Folder\Lab5\AnotherMethod\obj\Debug\net6.0\AnotherMethod.genruntimeconfig.cache
+C:\Users\sampe\Folder\Lab5\AnotherMethod\obj\Debug\net6.0\ref\AnotherMethod.dll
